@@ -1,0 +1,43 @@
+/* LoginPage.css */
+
+.full-height {
+    height: 100vh;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to right, #84fab0, #84fab0 10%, #8fd3f4 90%, #8fd3f4);
+  }
+  
+  .login-form {
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  .link-signup {
+    color: #007bff;
+  }
+  
+  .link-signup:hover {
+    color: #0056b3;
+  }
